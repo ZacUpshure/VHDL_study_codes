@@ -3,7 +3,7 @@ use ieee.std_logic_1164.ALL;
 
 entity 1-2-1-Decoder_c4 is
 port( b0,b1,b2,b3 : in std_logic;
-      c1	  : out std_logic);
+      c4	  : out std_logic);
 end 1-2-1-Decoder_c4;
 
 architecture VERHALTEN of 1-2-1-Decoder_c4 is
