@@ -10,4 +10,6 @@ begin
   
   y(2 downto 0) <= x;
   
-  y(3) <= ()
+  y(3) <= ();         --schaltnetz hier einschreiben.
+
+  end behave;
